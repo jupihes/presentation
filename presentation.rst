@@ -50,6 +50,19 @@ quad-play European incumbent.
 .. _ADL_W1_1: https://www.adlittle.com/en/career/case-studies/telco-diversification-strategy-reverse-ebitda-decline 
 
 
+General Challenges 
+------------------ 
+
+General Challenges for ....
+
+   .. image:: images/ADL-2 -challenges.png
+	:height: 20px
+	:width: 80px
+	:align: center
+
+- Web link ADL_2.
+.. _ADL_2:  ?
+
 .. contents::
 
 
