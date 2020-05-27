@@ -17,9 +17,13 @@ Here are
 1. **Digitalize operations**:
 
 	1.1 *Are we digital now?*
+	
 	1.2 *what are missed?*
+	
 	1.3 *where and how we can improve?*
+	
 		1.3.1 ITS
+		
 	1.4 *what do we need for improvment?*
 
 2. **Look for digital practices beyond the telco industry**: 
@@ -77,6 +81,21 @@ General Challenges for ....
 
 - Web link ADL_2.
 .. _ADL_2:  ?
+
+
+Internal Digitalization 
+----------------------- 
+
+Strategic imperative for internal digitalization ....
+
+.. image:: images/ADL-3-1.png
+	:height: 20px
+	:width: 80px
+	:align: center
+
+- Web link ADL_3.
+.. _ADL_3:  ?
+
 
 .. contents::
 
