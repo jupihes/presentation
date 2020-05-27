@@ -41,7 +41,7 @@ Overhaul
 A complete strategic overhaul, including new, non-core market entries and radical organizational restructuring for a 
 quad-play European incumbent.
 
-   .. image:: Presentation pics\ADL-W1-1.png
+   .. image:: images/ADL-W1-1.png
 			..:height: 20px
 			..:width: 80px
 			:align: center
@@ -58,7 +58,7 @@ My moto
 
 .. header::
 
-   .. image:: Presentationpics\\pandas_logo.png
+   .. image:: images/pandas_logo.png
 			:height: 20px
 			:width: 80px
 			:align: center
@@ -84,7 +84,7 @@ My moto
     in the future than in the past. *Grace Hopper*
 
 .. image:: C:\Users\hesam.mo\Pictures\Square wheels.jpg
-.. image:: "Presentation pics\City Mobility index - drill down.png"
+.. image:: images/City Mobility index - drill down.png
 
 .. image:: https://www.askideas.com/media/64/Live-as-if-you-were-to-die-tomorrow.-Learn-as-if-you-were-to-live-forever.Live-as-if-you-were-to-die-tomorrow.-Learn-as-if-you-were-to-live-forever.-Mahatma-Gandhi.png
 
@@ -96,10 +96,10 @@ Redefining the operating model
     ADL : why and how we need to redefine?
 	existing challenges
 
-.. image:: "Presentation pics\ADL-1-1.png"
+.. image:: images/ADL-1-1.png
 ..https://www.adlittle.com/en/insights/viewpoints/beyond-traditional-network-it-organizations
 
-"Presentation pics\ADL-2 -challenges.png"
+.. image:: images/ADL-2 -challenges.png
 
 ----
 
@@ -138,7 +138,7 @@ collaboration possibility with Municipality
 
 			???
 		
-			.. image:: Presentation pics//City Mobility index parts -1.png
+			.. image::  images/City Mobility index parts -1.png
 			..image:: path/to/image.png
 				:height: 600px
 				:width: 800px
@@ -149,7 +149,7 @@ collaboration possibility with Municipality
 			
 		2. Innovation
 			
-			![alt text]("Presentation pics\City Mobility index parts -2.png"
+			![alt text](images/City Mobility index parts -2.png)
 			[Details](https://www.adlittle.com/futuremobilitylab/index_10_result.php#crit2)
 			
 
