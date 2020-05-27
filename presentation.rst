@@ -12,13 +12,15 @@ I summarize writing as one Presentation in RST
 Review of status in Digitalization 
 ----------------------------------
 
-Here are 
+Here are
+
 1. **Digitalize operations**:
-1.1 *Are we digital now?*
-1.2 *what are missed?*
-1.3 *where and how we can improve?*
-	1.3.1 ITS
-1.2 *what do we need for improvment?*
+
+	1.1 *Are we digital now?*
+	1.2 *what are missed?*
+	1.3 *where and how we can improve?*
+		1.3.1 ITS
+	1.4 *what do we need for improvment?*
 
 2. **Look for digital practices beyond the telco industry**: 
 3. **Transform at an optimal scale**: 
