@@ -56,8 +56,8 @@ quad-play European incumbent.
 .. header::
 
    .. image:: images/Irancell_Logo.gif
-	:height: 20px
-	:width: 20px
+	:height: 5px
+	:width: 5px
 	:align: center
 
 
@@ -81,7 +81,7 @@ My moto
     in the future than in the past. *Grace Hopper*
 
 
-.. image:: images/City Mobility index - drill down.png
+.. image:: images/City%20Mobility%20index%20-%20drill%20down.png
 
 
 Redefining the operating model 
@@ -92,9 +92,11 @@ Redefining the operating model
 	existing challenges
 
 .. image:: images/ADL-1-1.png
+
 ..https://www.adlittle.com/en/insights/viewpoints/beyond-traditional-network-it-organizations
 
 .. image:: images/ADL-2 -challenges.png
+
 
 ----
 
