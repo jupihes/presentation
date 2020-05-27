@@ -1,147 +1,284 @@
-.. role:: white
+=====
+title:: MTN as Digital operator; could i help?
+=====
+My thoughts on Digital GM position
+----------------------------------
 
 
-An example presentation
-#######################
+These are my notes for this position.
 
-.. class:: titleslideinfo
+I summarize writing as one Presentation in RST
 
-    by Rob Allen
+4 dimension 
+-----------
+
+1. **Digitalize operations**: 
+Do not ignore internal processes digitalization. Ensure that the digital
+strategy covers all aspects of the business and operational digitalization to achieve a superior
+efficiency and cost advantage to compete with leaner and more agile competitors. [#]_ 
+
+2. **Look for digital practices beyond the telco industry**: 
+Adoption of digital technologies is evident
+not only within the telco industry, but also in multiple other adjacent and unrelated industry
+ecosystems. Telcos must seek inspiration from applications and use cases across industries.
+3. **Transform at an optimal scale**: 
+Adopt an iterative, agile and impact-oriented transformation
+approach, starting with a handful of concepts, taken through various stage gates to achieve
+tangible business results. Focus on achieving the initial lighthouse successful projects to inspire
+the organization towards a digital operational blueprint. Opportunities for collaboration with
+start-ups1 and partners must be leveraged to bring innovation from the broader ecosystem and
+bridge capability gaps across the organization.
+4. **Adopt a robust governance model**: 
+Address the challenge of scarce capabilities and expertise
+for leveraging digitalization in operations. The chosen governance should include executive
+sponsorship, dedicated capabilities, expertise, and accountability to process owners
+to ensure an organization-wide and sustainable transformation.
 
 
-.. Change to a title page
-.. raw:: pdf
+Overhaul 
+--------
 
-    PageBreak titlePage
+A complete strategic overhaul, including new, non-core market entries and radical organizational restructuring for a 
+quad-play European incumbent.
+
+   .. image:: Presentation pics\ADL-W1-1.png
+			..:height: 20px
+			..:width: 80px
+			:align: center
+
+My moto 
+-------
+
+- Web link ADL_W1_1_.
+.. _ADL_W1_1: https://www.adlittle.com/en/career/case-studies/telco-diversification-strategy-reverse-ebitda-decline 
 
 
-.. class:: centredtitle
-
-A title slide
+.. contents::
 
 
+.. header::
 
-.. Change to a standard page
-.. raw:: pdf
+   .. image:: Presentationpics\\pandas_logo.png
+			:height: 20px
+			:width: 80px
+			:align: center
 
-    PageBreak standardPage
+
+.. footer::
+
+    "How to use Hovercraft", Yern Busfern, ImaginaryCon 2017
+
+.. comment 
+.. https://thomas-cokelaer.info/tutorials/sphinx/rest_syntax.html
+.. D:\MTN\Work at MTN\Performance and SLA\Reading and applying for GM of Digital
+
+.. new slide = how to add new slide
+----
+
+My moto 
+-------
 
 
-This is a title
+    I’ve always been more interested
+
+    in the future than in the past. *Grace Hopper*
+
+.. image:: C:\Users\hesam.mo\Pictures\Square wheels.jpg
+.. image:: "Presentation pics\City Mobility index - drill down.png"
+
+.. image:: https://www.askideas.com/media/64/Live-as-if-you-were-to-die-tomorrow.-Learn-as-if-you-were-to-live-forever.Live-as-if-you-were-to-die-tomorrow.-Learn-as-if-you-were-to-live-forever.-Mahatma-Gandhi.png
+
+
+Redefining the operating model 
+-------
+
+
+    ADL : why and how we need to redefine?
+	existing challenges
+
+.. image:: "Presentation pics\ADL-1-1.png"
+..https://www.adlittle.com/en/insights/viewpoints/beyond-traditional-network-it-organizations
+
+"Presentation pics\ADL-2 -challenges.png"
+
+----
+
+Making challenges like Kaggle and share masked dataset 
+------------------------------------------------------
+	- others to partially solve our need
+
+----
+
+API based products /interactions with others 
+--------------------------------------------
+API as products
+---------------
+	- internal API (API based dataset providing)
+	- Partener API
+	- External / Open API
+	- dataset providing
+	- What are options?
+	- Provide some in API market and expect ?
+
+----
+ 
+Urban mobility improvement : 
+----------------------------
+
+collaboration possibility with Municipality
+
+
+	- video demo ADL_mob_1_.
+
+.. _ADL_mob_1: https://www.adlittle.com/futuremobilitylab/index.php#5 
+
+	- What is mobility index?
+		1. Maturity
+	
+
+			???
+		
+			.. image:: Presentation pics//City Mobility index parts -1.png
+			..image:: path/to/image.png
+				:height: 600px
+				:width: 800px
+				
+			More Details at ADL_mob_det_1_.
+			
+			.. _ADL_mob_det_1: https://www.adlittle.com/futuremobilitylab/index_10_result.php#crit1
+			
+		2. Innovation
+			
+			![alt text]("Presentation pics\City Mobility index parts -2.png"
+			[Details](https://www.adlittle.com/futuremobilitylab/index_10_result.php#crit2)
+			
+
+		3. Performance
+			
+			![alt text]("Presentation pics\City Mobility index parts -3.png"
+			[Details](https://www.adlittle.com/futuremobilitylab/index_10_result.php#crit3)
+
+		
+		
+	- what can be done from digital point of view
+	
+	![Tehran status]("Presentation pics\City Mobility -Tehran among others.png" "Tehran in 100 city")
+	
+	- [ref](https://www.adlittle.com/futuremobilitylab/)
+
+.. ## where to invest, advertise, expect subscriber?
+
+.. <img src="Presentation pics\City Mobility -Tehran among others.png" alt="drawing" width="200"/>
+
+
+
+
+---
+
+.. math
+.. math::
+
+  W^{3\beta}_{\delta_1 \rho_1 \sigma_2} \approx U^{3\beta}_{\delta_1 \rho_1}
+
+
+.. sample of source code embedding
+
+.. sourcecode:: ipython
+
+    In [69]: lines = plot([1,2,3])
+
+    In [70]: setp(lines)
+      alpha: float
+      animated: [True | False]
+      antialiased or aa: [True | False]
+      ...snip
+
+
+
+----
+
+
+Here is a quick and dirty cheat sheet for some common stuff you want
+to do in sphinx and ReST.  You can see the literal source for this
+file at :ref:`cheatsheet-literal`.
+   
+
+.. _formatting-text:
+
+Formatting text
 ===============
 
-This is just a paragraph of text that is quite long so that it probably goes over multiple lines. As such it should still look okay though!
+You use inline markup to make text *italics*, **bold**, or ``monotype``.
 
-    We shall defend our island, whatever the cost may be, we shall fight on the beaches, we shall fight on the landing grounds, we shall fight in the fields and in the streets, we shall fight in the hills; we shall never surrender.
+You can represent code blocks fairly easily::
 
-    -- Winston Churchill
+   import numpy as np
+   x = np.random.rand(12)
 
+Or literally include code:
 
-This is a very long title here to ensure it wraps correctly
-===========================================================
+.. literalinclude:: pyplots/ellipses.py
 
-This is just a paragraph of text that is quite long so that it probably goes over multiple lines. As such it should still look okay though!
+.. _making-a-list:
 
-
-This is a list
-==============
-
-* The first item
-* The second item with some ``preformatted`` text
-* The third item
-  
-  with a new line
-
-.. Change to a title page
-.. raw:: pdf
-
-    PageBreak titlePage
-
-.. class:: centredtitle
-
-A really really long title for a title slide
-
-
-.. Change to a standard page
-.. raw:: pdf
-
-    PageBreak elephpantPage
-
-.. Full screen image here
-
-:white:`Elephpant!`
-===================
-
-.. Change to a standard page
-.. raw:: pdf
-
-    PageBreak standardPage
-
-
-Another slide
+Making a list
 =============
 
-This a line of text
+It is easy to make lists in rest
 
-This is a sub-title
-```````````````````
+Bullet points
+-------------
 
-Some text here and then a list:
+This is a subsection making bullet points
 
-1. item 1
-2. item 2
-3. item 3
+* point A
 
+* point B
 
-Image on a slide
-================
-
-.. image:: images/elephpant.jpg
-    :width: 10cm
+* point C
 
 
-Some interesting code here
-===========================
+Enumerated points
+------------------
 
-.. code-block:: php
-   :startinline: true
+This is a subsection making numbered points
 
-    class TheatreController extends AbstractActionController
-    {
-        protected $theatreMapper;
+#. point A
 
-        public function indexAction()
-        {
-            $mapper = $this->getTheatreMapper();
-            $theatres = $mapper->fetchAll();
+#. point B
 
-            return new ViewModel(array('theatres' => $theatres));
-        }
-    }
+#. point C
 
 
-A table on a slide!
-===================
+.. _making-a-table:
 
-This is a table
+Making a table
+==============
 
+This shows you how to make a table -- if you only want to make a list see :ref:`making-a-list`.
 
-+------------+--------------------+------------+ 
-| Header 1   | Header 2           | Header 3   | 
-+============+====================+============+ 
-| body row 1 | row one, column 2  | column 3   | 
-+------------+--------------------+------------+ 
-| body row 2 | Cells may span mulitple columns.| 
-+------------+--------------------+------------+ 
-| body row 3 | data               | more data  | 
-+------------+--------------------+------------+
+==================   ============
+Name                 Age
+==================   ============
+John D Hunter        40 
+Cast of Thousands    41
+And Still More       42
+==================   ============
 
-.. Change to a title page
-.. raw:: pdf
+.. _making-links:
 
-    PageBreak titlePage
+Making links
+============
 
-.. class:: centredtitle
+It is easy to make a link to `yahoo <http://yahoo.com>`_ or to some
+section inside this document (see :ref:`making-a-table`) or another
+document.
 
-Thank you
+You can also reference classes, modules, functions, etc that are
+documented using the sphinx `autodoc
+<http://sphinx.pocoo.org/ext/autodoc.html>`_ facilites.  For example,
+see the module :mod:`matplotlib.backend_bases` documentation, or the
+class :class:`~matplotlib.backend_bases.LocationEvent`, or the method
+:meth:`~matplotlib.backend_bases.FigureCanvasBase.mpl_connect`.
+
 
