@@ -42,8 +42,8 @@ A complete strategic overhaul, including new, non-core market entries and radica
 quad-play European incumbent.
 
    .. image:: images/ADL-W1-1.png
-	..:height: 20px
-	..:width: 80px
+	:height: 20px
+	:width: 80px
 	:align: center
 
 My moto 
@@ -59,9 +59,9 @@ My moto
 .. header::
 
    .. image:: images/Irancell_Logo.gif
-			:height: 20px
-			:width: 80px
-			:align: center
+	height: 20px
+	width: 20px
+	align: center
 
 
 .. footer::
