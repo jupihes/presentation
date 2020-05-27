@@ -41,7 +41,7 @@ Overhaul or redesign of strategies
 A complete strategic overhaul, including new, non-core market entries and radical organizational restructuring for a 
 quad-play European incumbent.
 
-   .. image:: images/ADL-W1-1.png
+.. image:: images/ADL-W1-1.png
 	:height: 20px
 	:width: 80px
 	:align: center
@@ -55,7 +55,7 @@ General Challenges
 
 General Challenges for ....
 
-   .. image:: images/ADL-2 -challenges.png
+.. image:: images/ADL-2 -challenges.png
 	:height: 20px
 	:width: 80px
 	:align: center
