@@ -35,8 +35,8 @@ sponsorship, dedicated capabilities, expertise, and accountability to process ow
 to ensure an organization-wide and sustainable transformation.
 
 
-Overhaul 
---------
+Overhaul or redesign of strategies 
+----------------------------------
 
 A complete strategic overhaul, including new, non-core market entries and radical organizational restructuring for a 
 quad-play European incumbent.
@@ -45,9 +45,6 @@ quad-play European incumbent.
 	:height: 20px
 	:width: 80px
 	:align: center
-
-My moto 
--------
 
 - Web link ADL_W1_1_.
 .. _ADL_W1_1: https://www.adlittle.com/en/career/case-studies/telco-diversification-strategy-reverse-ebitda-decline 
@@ -59,9 +56,9 @@ My moto
 .. header::
 
    .. image:: images/Irancell_Logo.gif
-	height: 20px
-	width: 20px
-	align: center
+	:height: 20px
+	:width: 20px
+	:align: center
 
 
 .. footer::
@@ -83,14 +80,12 @@ My moto
 
     in the future than in the past. *Grace Hopper*
 
-.. image:: C:\Users\hesam.mo\Pictures\Square wheels.jpg
-.. image:: images/City Mobility index - drill down.png
 
-.. image:: https://www.askideas.com/media/64/Live-as-if-you-were-to-die-tomorrow.-Learn-as-if-you-were-to-live-forever.Live-as-if-you-were-to-die-tomorrow.-Learn-as-if-you-were-to-live-forever.-Mahatma-Gandhi.png
+.. image:: images/City Mobility index - drill down.png
 
 
 Redefining the operating model 
--------
+------------------------------
 
 
     ADL : why and how we need to redefine?
@@ -138,8 +133,8 @@ collaboration possibility with Municipality
 
 			???
 		
-			.. image::  images/City Mobility index parts -1.png
-			..image:: path/to/image.png
+			.. image:: images/City Mobility index parts -1.png
+			
 				:height: 600px
 				:width: 800px
 				
@@ -149,20 +144,20 @@ collaboration possibility with Municipality
 			
 		2. Innovation
 			
-			![alt text](images/City Mobility index parts -2.png)
+			.. image:: images/City Mobility index parts -2.png
 			[Details](https://www.adlittle.com/futuremobilitylab/index_10_result.php#crit2)
 			
 
 		3. Performance
 			
-			![alt text]("Presentation pics\City Mobility index parts -3.png"
+			.. image:: images/City Mobility index parts -3.png
 			[Details](https://www.adlittle.com/futuremobilitylab/index_10_result.php#crit3)
 
 		
 		
 	- what can be done from digital point of view
 	
-	![Tehran status]("Presentation pics\City Mobility -Tehran among others.png" "Tehran in 100 city")
+	.. image:: images/City Mobility -Tehran among others.png
 	
 	- [ref](https://www.adlittle.com/futuremobilitylab/)
 
