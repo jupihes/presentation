@@ -55,10 +55,10 @@ quad-play European incumbent.
 
 .. header::
 
-   .. image:: images/Irancell_Logo.gif
-	:height: 5px
-	:width: 5px
-	:align: center
+  .... image:: images/Irancell_Logo.gif
+	..:height: 5px
+	..:width: 5px
+	..:align: center
 
 
 .. footer::
@@ -94,6 +94,7 @@ Redefining the operating model
 .. image:: images/ADL-1-1.png
 
 ..https://www.adlittle.com/en/insights/viewpoints/beyond-traditional-network-it-organizations
+
 
 .. image:: images/ADL-2 -challenges.png
 
