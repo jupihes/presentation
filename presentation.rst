@@ -1,5 +1,5 @@
 =====
-title:: MTN as Digital operator; could i help?
+title:: Digital operator; Could i help?
 =====
 My thoughts on Digital GM position
 ----------------------------------
@@ -9,10 +9,23 @@ These are my notes for this position.
 
 I summarize writing as one Presentation in RST
 
-4 dimension 
------------
+Review of status in Digitalization 
+----------------------------------
 
-1. **Digitalize operations**: 
+Here are 
+1. **Digitalize operations**:
+1.1 *Are we digital now?*
+1.2 *what are missed?*
+1.3 *where and how we can improve?*
+	1.3.1 ITS
+1.2 *what do we need for improvment?*
+
+2. **Look for digital practices beyond the telco industry**: 
+3. **Transform at an optimal scale**: 
+4. **Adopt a robust governance model**: 
+
+
+1. **Digitalize operations**:
 Do not ignore internal processes digitalization. Ensure that the digital
 strategy covers all aspects of the business and operational digitalization to achieve a superior
 efficiency and cost advantage to compete with leaner and more agile competitors. [#]_ 
@@ -55,7 +68,7 @@ General Challenges
 
 General Challenges for ....
 
-.. image:: images/ADL-2 -challenges.png
+.. image:: images/ADL-2-challenges.png
 	:height: 20px
 	:width: 80px
 	:align: center
