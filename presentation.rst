@@ -331,3 +331,11 @@ class :class:`~matplotlib.backend_bases.LocationEvent`, or the method
 :meth:`~matplotlib.backend_bases.FigureCanvasBase.mpl_connect`.
 
 
+
+Set the ``env`` variable.
+
+The ``Production Accepted`` event.
+
+Edit the ``conf.py`` file.
+
+Enter: ``run``
