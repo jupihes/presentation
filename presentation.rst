@@ -1,6 +1,10 @@
 =====
 title:: Digital operator; Could i help?
 =====
+
+.. toctree::
+ :maxdepth: 2
+
 My thoughts on Digital GM position
 ----------------------------------
 
@@ -21,7 +25,7 @@ Here are
    1.2 *what are missed?*
 	
    1.3 *where and how we can improve?*
-	
+      
       1.3.1 ITS
 		
    1.4 *what do we need for improvment?*
@@ -54,13 +58,6 @@ sponsorship, dedicated capabilities, expertise, and accountability to process ow
 to ensure an organization-wide and sustainable transformation.
 
 
-#. X
-#. Y
-
-   #. u 
-   #. v 
-
-#. Z
 
 Overhaul or redesign of strategies 
 ----------------------------------
@@ -80,7 +77,7 @@ quad-play European incumbent.
 General Challenges 
 ------------------ 
 
-General Challenges for ....
+General Challenges for Mobile Operator 
 
 .. image:: images/ADL-2-challenges.png
 	:height: 20px
@@ -132,7 +129,6 @@ My moto
 
 
     I’ve always been more interested
-
     in the future than in the past. *Grace Hopper*
 
 
