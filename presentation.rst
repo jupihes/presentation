@@ -86,6 +86,63 @@ what are general Challenges for Mobile Operator
 .. _ADL_2:  ?
 
 
+Trends in Digital Economy 
+------------------------- 
+
+.. image:: images/DE-2019-1-trends in DE.png
+	:height: 20px
+	:width: 80px
+	:align: center
+
+Data Usage increase
+------------------- 
+
+**What will be Iran trend?**
+
+.. image:: images/DE-2019-2-trend data usage.png
+	:height: 20px
+	:width: 80px
+	:align: center
+
+Digital Economy Speard 
+---------------------- 
+
+.. image:: images/DE-2019-3-DE speard.png
+	:height: 20px
+	:width: 80px
+	:align: center
+
+Digital Economy Layers 
+---------------------- 
+
+What is our core bussiness?
+Where we can expand?
+
+.. image:: images/DE-2019-4-DE layers.png
+	:height: 20px
+	:width: 80px
+	:align: center
+
+Web checking status per region
+------------------------------
+
+Analyze Iran and try to discover and identify patterns first
+
+what is next?
+
+.. image:: images/DE-2019-5-web SD per region.png
+	:height: 20px
+	:width: 80px
+	:align: center
+
+Create value from Digital 
+------------------------- 
+
+.. image:: images/DE-2019-6-create value from digital.png
+	:height: 20px
+	:width: 80px
+	:align: center
+
 Internal Digitalization 
 ----------------------- 
 
