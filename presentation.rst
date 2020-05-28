@@ -33,29 +33,6 @@ Here are
 4. **Adopt a robust governance model**: 
 
 
-1. **Digitalize operations**:
-Do not ignore internal processes digitalization. Ensure that the digital
-strategy covers all aspects of the business and operational digitalization to achieve a superior
-efficiency and cost advantage to compete with leaner and more agile competitors. [#]_ 
-
-2. **Look for digital practices beyond the telco industry**: 
-Adoption of digital technologies is evident
-not only within the telco industry, but also in multiple other adjacent and unrelated industry
-ecosystems. Telcos must seek inspiration from applications and use cases across industries.
-3. **Transform at an optimal scale**: 
-Adopt an iterative, agile and impact-oriented transformation
-approach, starting with a handful of concepts, taken through various stage gates to achieve
-tangible business results. Focus on achieving the initial lighthouse successful projects to inspire
-the organization towards a digital operational blueprint. Opportunities for collaboration with
-start-ups1 and partners must be leveraged to bring innovation from the broader ecosystem and
-bridge capability gaps across the organization.
-4. **Adopt a robust governance model**: 
-Address the challenge of scarce capabilities and expertise
-for leveraging digitalization in operations. The chosen governance should include executive
-sponsorship, dedicated capabilities, expertise, and accountability to process owners
-to ensure an organization-wide and sustainable transformation.
-
-
 
 Overhaul or redesign of strategies 
 ----------------------------------
@@ -81,6 +58,9 @@ what are general Challenges for Mobile Operator
 	:height: 20px
 	:width: 80px
 	:align: center
+        :scale: 50 %
+        :alt: alternate text
+        :align: right
 
 - Web link ADL_2.
 .. _ADL_2:  ?
@@ -89,7 +69,7 @@ what are general Challenges for Mobile Operator
 Trends in Digital Economy 
 ------------------------- 
 
-.. image:: images/DE-2019-1-trends in DE.png
+.. image:: https://github.com/jupihes/presentation/blob/master/images/DE-2019-1-trends%20in%20DE.png ..images/DE-2019-1-trends in DE.png
 	:height: 20px
 	:width: 80px
 	:align: center
@@ -384,11 +364,28 @@ class :class:`~matplotlib.backend_bases.LocationEvent`, or the method
 :meth:`~matplotlib.backend_bases.FigureCanvasBase.mpl_connect`.
 
 
+Review of status in Digitalization - details 
+--------------------------------------------
 
-Set the ``env`` variable.
 
-The ``Production Accepted`` event.
+1. **Digitalize operations**:
+Do not ignore internal processes digitalization. Ensure that the digital
+strategy covers all aspects of the business and operational digitalization to achieve a superior
+efficiency and cost advantage to compete with leaner and more agile competitors. [#]_ 
 
-Edit the ``conf.py`` file.
-
-Enter: ``run``
+2. **Look for digital practices beyond the telco industry**: 
+Adoption of digital technologies is evident
+not only within the telco industry, but also in multiple other adjacent and unrelated industry
+ecosystems. Telcos must seek inspiration from applications and use cases across industries.
+3. **Transform at an optimal scale**: 
+Adopt an iterative, agile and impact-oriented transformation
+approach, starting with a handful of concepts, taken through various stage gates to achieve
+tangible business results. Focus on achieving the initial lighthouse successful projects to inspire
+the organization towards a digital operational blueprint. Opportunities for collaboration with
+start-ups1 and partners must be leveraged to bring innovation from the broader ecosystem and
+bridge capability gaps across the organization.
+4. **Adopt a robust governance model**: 
+Address the challenge of scarce capabilities and expertise
+for leveraging digitalization in operations. The chosen governance should include executive
+sponsorship, dedicated capabilities, expertise, and accountability to process owners
+to ensure an organization-wide and sustainable transformation.
