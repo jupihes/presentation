@@ -72,7 +72,7 @@ Trends in Digital Economy
 <img src="https://github.com/jupihes/presentation/blob/master/images/DE-2019-1-trends%20in%20DE.png">
 
 
-.. image:: images/DE-2019-1-trends in DE.png
+.. image:: 'images/DE-2019-1-trends in DE.png'
 	:height: 20px
 	:width: 80px
 	:align: center
