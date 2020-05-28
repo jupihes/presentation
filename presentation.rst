@@ -2,8 +2,6 @@
 title:: Digital operator; Could i help?
 =====
 
-.. toctree::
- :maxdepth: 2
 
 My thoughts on Digital GM position
 ----------------------------------
@@ -74,10 +72,10 @@ quad-play European incumbent.
 .. _ADL_W1_1: https://www.adlittle.com/en/career/case-studies/telco-diversification-strategy-reverse-ebitda-decline 
 
 
-General Challenges 
------------------- 
+General Challenges for Telco's 
+------------------------------ 
 
-General Challenges for Mobile Operator 
+what are general Challenges for Mobile Operator 
 
 .. image:: images/ADL-2-challenges.png
 	:height: 20px
@@ -92,6 +90,7 @@ Internal Digitalization
 ----------------------- 
 
 Strategic imperative for internal digitalization ....
+**What to do first?**
 
 .. image:: images/ADL-3-1.png
 	:height: 20px
@@ -115,24 +114,21 @@ Strategic imperative for internal digitalization ....
 
 .. footer::
 
-    "How to use Hovercraft", Yern Busfern, ImaginaryCon 2017
+    "Hesam M.-Hosseini
 
 .. comment 
 .. https://thomas-cokelaer.info/tutorials/sphinx/rest_syntax.html
-.. D:\MTN\Work at MTN\Performance and SLA\Reading and applying for GM of Digital
+
 
 .. new slide = how to add new slide
 ----
 
-My moto 
--------
+City Mobility index 
+-------------------
 
+Sample of what could be done.
 
-    I’ve always been more interested
-    in the future than in the past. *Grace Hopper*
-
-
-.. image:: images/City%20Mobility%20index%20-%20drill%20down.png
+.. image:: images/City Mobility index - drill down.png
 
 
 Redefining the operating model 
