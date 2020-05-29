@@ -148,11 +148,11 @@ Strategic imperative for internal digitalization ....
 .. header::
 
 .. image:: images/Irancell_Logo.gif
-	:height: 5px
-	:width: 5px
+	:scale: 5 %
 	:align: center
-	:scale: 10 %
-
+	..:height: 5px
+	..:width: 5px
+	
 
 .. footer::
 
@@ -160,17 +160,6 @@ Strategic imperative for internal digitalization ....
 
 .. comment 
 .. https://thomas-cokelaer.info/tutorials/sphinx/rest_syntax.html
-
-
-.. new slide = how to add new slide
-----
-
-City Mobility index 
--------------------
-
-Sample of what could be done.
-
-.. image:: images/City Mobility index - drill down.png
 
 
 Redefining the operating model 
@@ -207,8 +196,23 @@ API as products
 	- What are options?
 	- Provide some in API market and expect ?
 
-----
- 
+Sustainable Development Goals 
+-----------------------------
+
+Out of 17 sustainable development goals (SDGs) to transform world, Digital could support at least followings
+
+- GOAL 1: No Poverty
+- GOAL 3: Good Health and Well-being
+- GOAL 4: Quality Education
+- GOAL 5: Gender Equality
+- GOAL 8: Decent Work and Economic Growth
+- GOAL 9: Industry, Innovation and Infrastructure
+- GOAL 10: Reduced Inequality
+- GOAL 11: Sustainable Cities and Communities
+- GOAL 12: Responsible Consumption and Production
+- GOAL 13: Climate Action
+
+
 Collaboration possibility to make value
 ---------------------------------------
 
@@ -233,6 +237,13 @@ Collaboration possibility to make value
 #. Roads and Urban Development
 
 
+
+City Mobility index 
+-------------------
+
+Sample of what could be done.
+
+.. image:: images/City Mobility index - drill down.png
 
 
 
