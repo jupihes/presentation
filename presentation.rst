@@ -45,9 +45,10 @@ quad-play European incumbent.
 	:width: 80px
 	:align: center
 
-- Web link ADL_W1_1_.
+- Web link ADL_W1_1_. 
 .. _ADL_W1_1: https://www.adlittle.com/en/career/case-studies/telco-diversification-strategy-reverse-ebitda-decline 
 
+[Ref1]_ 
 
 General Challenges for Telco's 
 ------------------------------ 
@@ -60,7 +61,7 @@ what are general Challenges for Mobile Operator
 	:align: center
         :scale: 50 %
         :alt: alternate text
-        :align: right
+        
 
 - Web link ADL_2.
 .. _ADL_2:  ?
@@ -146,10 +147,11 @@ Strategic imperative for internal digitalization ....
 
 .. header::
 
-  .... image:: images/Irancell_Logo.gif
-	..:height: 5px
-	..:width: 5px
-	..:align: center
+.. image:: images/Irancell_Logo.gif
+	:height: 5px
+	:width: 5px
+	:align: center
+	:scale: 10 %
 
 
 .. footer::
@@ -207,41 +209,60 @@ API as products
 
 ----
  
-Urban mobility improvement : 
-----------------------------
+Collaboration possibility to make value
+---------------------------------------
 
-collaboration possibility with Municipality
+Collaboration possibility to make value
+
+#. Communications and Information Technology
+    #. Cacheing part of Wikipedia and other useful open license content in NIN
+    #. Making access content for Students free
+#. Science, Research and Technology    
+#. Health and Medical Education
+#. Education
+#. Municipality
+    #. Urban mobility improvement
+#. Youth Affairs and Sports
+
+#. Cultural Heritage, Handicrafts and Tourism
+#. Culture and Islamic Guidance
+#. Cooperatives, Labor and Social Welfare
+#. Energy
+#. Industry, Mine and Trade
+#. Interior
+#. Roads and Urban Development
 
 
-	- video demo ADL_mob_1_.
+
+
+
+Urban mobility improvement 
+--------------------------
+
+- video demo ADL_mob_1_.
 
 .. _ADL_mob_1: https://www.adlittle.com/futuremobilitylab/index.php#5 
 
-	- What is mobility index?
-		1. Maturity
-	
+- What is mobility index?
+   1. Maturity
 
-			???
+.. image:: images/City Mobility index parts -1.png
+    :height: 600px
+    :width: 800px
+			
+More Details at ADL_mob_det_1_.
+.. _ADL_mob_det_1: https://www.adlittle.com/futuremobilitylab/index_10_result.php#crit1
 		
-			.. image:: images/City Mobility index parts -1.png
-			
-				:height: 600px
-				:width: 800px
-				
-			More Details at ADL_mob_det_1_.
-			
-			.. _ADL_mob_det_1: https://www.adlittle.com/futuremobilitylab/index_10_result.php#crit1
-			
-		2. Innovation
-			
-			.. image:: images/City Mobility index parts -2.png
-			[Details](https://www.adlittle.com/futuremobilitylab/index_10_result.php#crit2)
-			
+	2. Innovation
+		
+		.. image:: images/City Mobility index parts -2.png
+		[Details](https://www.adlittle.com/futuremobilitylab/index_10_result.php#crit2)
+		
 
-		3. Performance
-			
-			.. image:: images/City Mobility index parts -3.png
-			[Details](https://www.adlittle.com/futuremobilitylab/index_10_result.php#crit3)
+	3. Performance
+		
+		.. image:: images/City Mobility index parts -3.png
+		[Details](https://www.adlittle.com/futuremobilitylab/index_10_result.php#crit3)
 
 		
 		
@@ -392,3 +413,9 @@ Address the challenge of scarce capabilities and expertise
 for leveraging digitalization in operations. The chosen governance should include executive
 sponsorship, dedicated capabilities, expertise, and accountability to process owners
 to ensure an organization-wide and sustainable transformation.
+
+
+..reference place
+.. [Ref1] https://www.adlittle.com/en/career/case-studies/telco-diversification-strategy-reverse-ebitda-decline  
+.. [Ref2] Book or article reference, URL or whatever.
+.. [Ref3] Book or article reference, URL or whatever.
