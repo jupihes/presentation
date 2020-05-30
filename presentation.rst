@@ -9,6 +9,8 @@ My thoughts on Digital GM position
 
 These are my notes for GM Digital position.
 
+.. contents::
+
 
 
 Review of status in Digitalization 
@@ -191,12 +193,9 @@ Strategic imperative for internal digitalization ....
 .. _ADL_3:  ?
 
 
-.. contents::
-
-
 .. header::
 
-:: images/MTN logo.png
+.. image:: images/MTN logo.png
    :scale: 5 %
    :align: center
    ..:height: 5px
