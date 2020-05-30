@@ -21,7 +21,8 @@ Here are general partitioning of issue.
 - Internal processes digitalization. 
 
 - Digital strategy to cover all aspects of the business
-   - achieve a superior efficiency and cost advantage to compete with leaner and more agile competitors. 
+
+- Achieve a superior efficiency and cost advantage to compete with leaner and more agile competitors. 
    
    1.1 *Are we digital now?*
 	
@@ -32,6 +33,7 @@ Here are general partitioning of issue.
       1.3.1 ITS
       
       1.3.2 NWG
+      
       1.3.3 MKT and Bussiness planning
 		
    1.4 *What and where do we need improvment?*
@@ -56,9 +58,10 @@ Here are general partitioning of issue.
 
 4. **Adopt a robust governance model**
 
-4.1 * Challenges to derive*
+4.1 *Challenges to derive*
     
     - Scarce capabilities and expertise
+    
     - Need Executive sponsorship
 
 5. **Existing Competiotors and challenges**
@@ -104,7 +107,13 @@ What are general Challenges for Mobile Operator
 Trends in Digital Economy 
 ------------------------- 
 
-.. image:: images/DE-2019-1-trends in DE.png
+- Global Trends which affect DE.
+
+- What are estimates for Iran?
+
+- What can we do? 
+
+.. image:: images/DE-1-trends in DE.png
 	:height: 20px
 	:width: 80px
 	:align: center
