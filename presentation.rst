@@ -138,13 +138,13 @@ Data Usage increase
 .. figure:: images/DE_2_trend_data_usage.png
    :height: 20px
    :width: 80px
-   :scale: 50 %
+   :scale: 100%
    :align: center
 
 Digital Economy Speard 
 ---------------------- 
 
-.. image:: images/DE-2019-3-DE speard.png
+.. image:: images/DE-2019-3-DE-speard.png
 	:height: 20px
 	:width: 80px
 	:align: center
