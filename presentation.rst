@@ -155,7 +155,7 @@ Digital Economy Layers
 What is our core bussiness?
 Where we can expand?
 
-.. image:: images/DE-2019-4-DE layers.png
+.. image:: images/DE-2019-4-DE-layers.png 
 	:height: 20px
 	:width: 80px
 	:align: center
@@ -167,7 +167,7 @@ Analyze Iran and try to discover and identify patterns first
 
 what is next?
 
-.. image:: images/DE-2019-5-web SD per region.png
+.. image:: images/DE-2019-5-web-SD-per-region.png
    :height: 20px
    :width: 80px
    :align: center
@@ -175,10 +175,39 @@ what is next?
 Create value from Digital 
 ------------------------- 
 
-.. image:: images/DE-2019-6-create value from digital.png
+
+.. image:: images/DE-2019-6-create-value-from-digital.png 
    :height: 20px
    :width: 80px
    :align: center
+
+
+???? 
+------------------------- 
+
+
+.. image:: images/DE-2019-7-Data-value.png  
+   :height: 20px
+   :width: 80px
+   :align: center
+
+???? 
+------------------------- 
+
+.. image:: images/DE-2019-8-D-platforms.png   
+   :height: 20px
+   :width: 80px
+   :align: center
+   
+
+???? 
+------------------------- 
+
+.. image:: images/DE-2019-9-industry-to-D.png   
+   :height: 20px
+   :width: 80px
+   :align: center
+
 
 Internal Digitalization 
 ----------------------- 
