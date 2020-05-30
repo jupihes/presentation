@@ -19,6 +19,7 @@ Here are general partitioning of issue.
 1. **Digitalize operations**
 
 - Internal processes digitalization. 
+
 - Digital strategy to cover all aspects of the business
    - achieve a superior efficiency and cost advantage to compete with leaner and more agile competitors. 
    
@@ -29,20 +30,24 @@ Here are general partitioning of issue.
    1.3 *where and how we can improve?*
       
       1.3.1 ITS
+      
       1.3.2 NWG
       1.3.3 MKT and Bussiness planning
 		
    1.4 *What and where do we need improvment?*
+   
    	1.4.1 Slide 
 
 2. **Look for digital practices beyond the telco industry**
 
 - Digitalization initiated in multiple other adjacent and unrelated industry ecosystems. 
+
 - Look for inspiration from applications and use cases across other industries.
 
 3. **Transform at an optimal scale**
 
 - How to transform?
+
  Adopt an iterative, agile and impact-oriented transformation approach
 
 - Starting with a handful of concepts, i.e. low hanging friuts 
@@ -51,14 +56,14 @@ Here are general partitioning of issue.
 
 4. **Adopt a robust governance model**
 
-Address the challenge of scarce capabilities and expertise
-for leveraging digitalization in operations. The chosen governance should include executive
-sponsorship, dedicated capabilities, expertise, and accountability to process owners
-to ensure an organization-wide and sustainable transformation.
+4.1 * Challenges to derive*
+    
+    - Scarce capabilities and expertise
+    - Need Executive sponsorship
 
 5. **Existing Competiotors and challenges**
 
-   5.1 *General Challenges for Telco's *
+   5.1 *General Challenges for Telco's - Slide*
 
 
 
