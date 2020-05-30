@@ -120,10 +120,12 @@ Trends in Digital Economy
 
 - What can we do? 
 
-.. image:: images/DE-1-trends in DE.png
-        :height: 20px
-        :width: 80px
-        :align: center
+.. figure:: images/DE_1_trendsinDE.png
+   :height: 400 px
+   :width: 800 px
+   :scale: 50 %
+   :align: center
+   :alt: alternate text
 
 Data Usage increase
 ------------------- 
@@ -131,9 +133,9 @@ Data Usage increase
 **What will be Iran trend?**
 
 .. image:: images/DE-2019-2-trend data usage.png
-        :height: 20px
-        :width: 80px
-        :align: center
+   :height: 20px
+   :width: 80px
+   :align: center
 
 Digital Economy Speard 
 ---------------------- 
@@ -162,17 +164,17 @@ Analyze Iran and try to discover and identify patterns first
 what is next?
 
 .. image:: images/DE-2019-5-web SD per region.png
-	:height: 20px
-	:width: 80px
-	:align: center
+   :height: 20px
+   :width: 80px
+   :align: center
 
 Create value from Digital 
 ------------------------- 
 
 .. image:: images/DE-2019-6-create value from digital.png
-	:height: 20px
-	:width: 80px
-	:align: center
+   :height: 20px
+   :width: 80px
+   :align: center
 
 Internal Digitalization 
 ----------------------- 
@@ -181,9 +183,9 @@ Strategic imperative for internal digitalization ....
 **What to do first?**
 
 .. image:: images/ADL-3-1.png
-	:height: 20px
-	:width: 80px
-	:align: center
+    :height: 20px
+    :width: 80px
+    :align: center
 
 - Web link ADL_3.
 .. _ADL_3:  ?
@@ -194,11 +196,11 @@ Strategic imperative for internal digitalization ....
 
 .. header::
 
-.. image:: images/MTN logo.png
-	:scale: 5 %
-	:align: center
-	..:height: 5px
-	..:width: 5px
+:: images/MTN logo.png
+   :scale: 5 %
+   :align: center
+   ..:height: 5px
+   ..:width: 5px
 	
 
 .. footer::
