@@ -7,30 +7,58 @@ My thoughts on Digital GM position
 ----------------------------------
 
 
-These are my notes for this position.
+These are my notes for GM Digital position.
 
-I summarize writing as one Presentation in RST
+
 
 Review of status in Digitalization 
 ----------------------------------
 
-Here are
+Here are general partitioning of issue.
 
-1. **Digitalize operations**:
+1. **Digitalize operations**
 
+- Internal processes digitalization. 
+- Digital strategy to cover all aspects of the business
+   - achieve a superior efficiency and cost advantage to compete with leaner and more agile competitors. 
+   
    1.1 *Are we digital now?*
 	
-   1.2 *what are missed?*
+   1.2 *What are missed?*
 	
    1.3 *where and how we can improve?*
       
       1.3.1 ITS
+      1.3.2 NWG
+      1.3.3 MKT and Bussiness planning
 		
-   1.4 *what do we need for improvment?*
+   1.4 *What and where do we need improvment?*
+   	1.4.1 Slide 
 
-2. **Look for digital practices beyond the telco industry**: 
-3. **Transform at an optimal scale**: 
-4. **Adopt a robust governance model**: 
+2. **Look for digital practices beyond the telco industry**
+
+- Digitalization initiated in multiple other adjacent and unrelated industry ecosystems. 
+- Look for inspiration from applications and use cases across other industries.
+
+3. **Transform at an optimal scale**
+
+- How to transform?
+ Adopt an iterative, agile and impact-oriented transformation approach
+
+- Starting with a handful of concepts, i.e. low hanging friuts 
+
+- Opportunities for collaboration with start-ups and partners must be leveraged to bring innovation from the broader ecosystem and bridge capability gaps across the organization.
+
+4. **Adopt a robust governance model**
+
+Address the challenge of scarce capabilities and expertise
+for leveraging digitalization in operations. The chosen governance should include executive
+sponsorship, dedicated capabilities, expertise, and accountability to process owners
+to ensure an organization-wide and sustainable transformation.
+
+5. **Existing Competiotors and challenges**
+
+   5.1 *General Challenges for Telco's *
 
 
 
@@ -45,7 +73,8 @@ quad-play European incumbent.
 	:width: 80px
 	:align: center
 
-- Web link ADL_W1_1_. 
+Web link ADL_W1_1_. 
+
 .. _ADL_W1_1: https://www.adlittle.com/en/career/case-studies/telco-diversification-strategy-reverse-ebitda-decline 
 
 [Ref1]_ 
@@ -53,7 +82,7 @@ quad-play European incumbent.
 General Challenges for Telco's 
 ------------------------------ 
 
-what are general Challenges for Mobile Operator 
+What are general Challenges for Mobile Operator 
 
 .. image:: images/ADL-2-challenges.png
 	:height: 20px
@@ -70,10 +99,7 @@ what are general Challenges for Mobile Operator
 Trends in Digital Economy 
 ------------------------- 
 
-<img src="https://github.com/jupihes/presentation/blob/master/images/DE-2019-1-trends%20in%20DE.png">
-
-
-.. image:: 'images/DE-2019-1-trends in DE.png'
+.. image:: images/DE-2019-1-trends in DE.png
 	:height: 20px
 	:width: 80px
 	:align: center
@@ -83,7 +109,7 @@ Data Usage increase
 
 **What will be Iran trend?**
 
-.. image:: images/DE-2019-2-trend data usage.png
+.. |Product| image:: images/DE-2019-2-trend data usage.png
 	:height: 20px
 	:width: 80px
 	:align: center
@@ -147,7 +173,7 @@ Strategic imperative for internal digitalization ....
 
 .. header::
 
-.. image:: images/Irancell_Logo.gif
+.. image:: images/MTN logo.png
 	:scale: 5 %
 	:align: center
 	..:height: 5px
