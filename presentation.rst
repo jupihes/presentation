@@ -1,13 +1,14 @@
-=====
-title:: Digital operator; Could i help?
-=====
+..title::
+===============================
+Digital operator; Could i help?
+===============================
 
 
 My thoughts on Digital GM position
 ----------------------------------
 
 
-These are my notes for GM Digital position.
+These are my thoughts and notes for GM Digital position.
 
 .. contents::
 
@@ -127,16 +128,17 @@ Trends in Digital Economy
    :width: 800 px
    :scale: 50 %
    :align: center
-   :alt: alternate text
+   :alt: Trends in Global DE
 
 Data Usage increase
 ------------------- 
 
 **What will be Iran trend?**
 
-.. image:: images/DE-2019-2-trend data usage.png
+.. figure:: images/DE_2_trend_data_usage.png
    :height: 20px
    :width: 80px
+   :scale: 50 %
    :align: center
 
 Digital Economy Speard 
