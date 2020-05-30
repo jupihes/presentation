@@ -90,7 +90,14 @@ Web link ADL_W1_1_.
 General Challenges for Telco's 
 ------------------------------ 
 
-What are general Challenges for Mobile Operator 
+What are general Challenges for Mobile Operator? 
+
+1. Threat of new entrants
+2. Threat of substitutes
+3. Bargaining power of customers
+4. Bargaining power of suppliers
+5. Competitive rivalry
+
 
 .. image:: images/ADL-2-challenges.png
 	:height: 20px
@@ -114,19 +121,19 @@ Trends in Digital Economy
 - What can we do? 
 
 .. image:: images/DE-1-trends in DE.png
-	:height: 20px
-	:width: 80px
-	:align: center
+        :height: 20px
+        :width: 80px
+        :align: center
 
 Data Usage increase
 ------------------- 
 
 **What will be Iran trend?**
 
-.. |Product| image:: images/DE-2019-2-trend data usage.png
-	:height: 20px
-	:width: 80px
-	:align: center
+.. image:: images/DE-2019-2-trend data usage.png
+        :height: 20px
+        :width: 80px
+        :align: center
 
 Digital Economy Speard 
 ---------------------- 
