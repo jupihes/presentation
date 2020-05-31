@@ -1,7 +1,7 @@
-..title::
-===============================
-Digital operator; Could i help?
-===============================
+
+=========================================
+.. title::Digital operator; Could i help?
+=========================================
 
 
 My thoughts on Digital GM position
@@ -26,7 +26,7 @@ Here are general partitioning of issue.
 - Digital strategy to cover all aspects of the business
 
 - Achieve a superior efficiency and cost advantage to compete with leaner and more agile competitors. 
-   
+
    1.1 *Are we digital now?*
 	
    1.2 *What are missed?*
@@ -130,6 +130,7 @@ Trends in Digital Economy
    :align: center
    :alt: Trends in Global DE
 
+
 Data Usage increase
 ------------------- 
 
@@ -209,6 +210,28 @@ Create value from Digital
    :align: center
 
 
+???? 
+----------------------------- 
+
+.. figure:: images/DE-10-policy.png
+   :height: 400 px
+   :width: 800 px
+   :scale: 50 %
+   :align: center
+   :alt: Applications
+
+
+???? 
+----------------------------- 
+
+.. figure:: images/DE-11-Policy_areas.png
+   :height: 400 px
+   :width: 800 px
+   :scale: 50 %
+   :align: center
+   :alt: Applications
+
+
 Internal Digitalization 
 ----------------------- 
 
@@ -222,6 +245,28 @@ Strategic imperative for internal digitalization ....
 
 - Web link ADL_3.
 .. _ADL_3:  ?
+
+
+Possible applications
+--------------------- 
+
+.. figure:: images/ADL-3-applications.png
+   :height: 400 px
+   :width: 800 px
+   :scale: 50 %
+   :align: center
+   :alt: Applications
+
+Analytics applications inside 
+----------------------------- 
+
+.. figure:: images/ADL-3-analytics_applications.png
+   :height: 400 px
+   :width: 800 px
+   :scale: 50 %
+   :align: center
+   :alt: Applications
+
 
 
 .. header::
