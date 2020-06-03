@@ -1,6 +1,6 @@
 
 =========================================
-.. title::Digital operator; Could i help?
+.. title:: Digital operator; Could i help?
 =========================================
 
 
@@ -8,7 +8,7 @@ My thoughts on Digital GM position
 ----------------------------------
 
 
-These are my thoughts and notes for GM Digital position.
+These are my thoughts and notes for GM Digital position. Notes are 
 
 .. contents::
 
@@ -17,9 +17,9 @@ These are my thoughts and notes for GM Digital position.
 Review of status in Digitalization 
 ----------------------------------
 
-Here are general partitioning of issue.
+Here are general views partitioning of issue.
 
-1. **Digitalize operations**
+# 1. **Digitalize operations**
 
 - Internal processes digitalization. 
 
@@ -27,19 +27,19 @@ Here are general partitioning of issue.
 
 - Achieve a superior efficiency and cost advantage to compete with leaner and more agile competitors. 
 
-   1.1 *Are we digital now?*
+   # 1.1 *Are we digital now?*
 	
-   1.2 *What are missed?*
+   # 1.2 *What are missed?*
 	
-   1.3 *where and how we can improve?*
+   # 1.3 *where and how we can improve?*
       
-      1.3.1 ITS
+      # 1.3.1 ITS
       
-      1.3.2 NWG
+      # 1.3.2 NWG
       
-      1.3.3 MKT and Bussiness planning
+      # 1.3.3 MKT and Bussiness planning
 		
-   1.4 *What and where do we need improvment?*
+   # 1.4 *What and where do we need improvment?*
    
    	1.4.1 Slide 
 
