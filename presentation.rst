@@ -98,23 +98,27 @@ General Challenges for Telco's
 What are general Challenges for Mobile Operator? 
 
 1. Threat of new entrants
+
   - No special risk for now as new Telcom Operator is unlikely = Main barriers are huge needed investments, Sactions for seting up new operation, lic,etc.
   - Rightel may impose risk if it could manage to perform rationally which is very unlikley. 
   
 2. Threat of substitutes
+
   - There is threat for digital services as any company with acceptable service may take a lead and grasp subscribers.
   
 3. Bargaining power of customers
  
  - It is different per service and product. For some with free foreigne provider, internal/local's are not attracttive due to so many reasons.  
 4. Bargaining power of suppliers
+
   - International providers may impose special request due to limitations and status of Iran Market.
-  - 
+ 
 5. Competitive rivalry
+
    - MCI threat to invest and compete
    - Competitive strategy from Shatel o other players
 
-Next slides, present default for Telcos.
+Next slides, present general challange status for Telcos.
 
 .. image:: images/ADL-2-challenges.png
 	:height: 20px
