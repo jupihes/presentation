@@ -1,7 +1,7 @@
 
-=========================================
-.. title:: Digital operator; Could i help?
-=========================================
+=========================================================
+Digital operator: Digital Platform Delivery and Operation
+=========================================================
 
 
 My thoughts on Digital GM position
