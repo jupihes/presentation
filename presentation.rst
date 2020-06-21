@@ -8,7 +8,14 @@ My thoughts on Digital GM position
 ----------------------------------
 
 
-These are my thoughts and notes for GM Digital position. Notes are 
+These are my thoughts and notes for GM Digital position. 
+Overview try to cover parts on
+
+- Global trend of digitalization
+
+- Iran 
+
+- Irancell
 
 .. contents::
 
@@ -454,22 +461,29 @@ Digital Department
 - Strategy
 - Policy
 - Project 
+
    - implementation plan
 
 
 +------------+------------+-----------+
-| Existing App/products   | Ongoing projects   | Future plan |
+| Existing   | Ongoing    | Future    |
+|App/products| projects   |  plan     |
 +============+============+===========+
-| body row 1 | column 2   | column 3  |
-+------------+------------+-----------+
-| body row 2 | Cells may span columns.|
-+------------+------------+-----------+
-| body row 3 | Cells may  | - Cells   |
-+------------+ span rows. | - contain |
-| body row 4 |            | - blocks. |
+| review and | review     | Thank and |
+| decide     | strategy   | plan      |
 +------------+------------+-----------+
 
-App/products
+
+
+Irancell Redesign of strategies 
+----------------------------------
+
+Low hanging furits is my view.
+
+.. image:: images/ADL-W1-1-us.png
+	:height: 20px
+	:width: 80px
+	:align: center
 
 Review of status in Digitalization - details 
 --------------------------------------------
