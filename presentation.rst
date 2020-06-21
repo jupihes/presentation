@@ -3,6 +3,7 @@
 Digital operator: Digital Platform Delivery and Operation
 =========================================================
 
+.. contents::
 
 My thoughts on Digital GM position
 ----------------------------------
@@ -16,9 +17,6 @@ Overview try to cover parts on
 - Iran 
 
 - Irancell
-
-.. contents::
-
 
 
 Review of status in Digitalization 
@@ -186,18 +184,6 @@ Where we can expand?
 	:width: 80px
 	:align: center
 
-Web checking status per region
-------------------------------
-
-Analyze Iran and try to discover and identify patterns first
-
-what is next?
-
-.. image:: images/DE-2019-5-web-SD-per-region.png
-   :height: 20px
-   :width: 80px
-   :align: center
-
 Create value from Digital 
 ------------------------- 
 
@@ -208,8 +194,8 @@ Create value from Digital
    :align: center
 
 
-???? 
-------------------------- 
+How to Monetize? 
+---------------- 
 
 
 .. image:: images/DE-2019-7-Data-value.png  
@@ -217,8 +203,12 @@ Create value from Digital
    :width: 80px
    :align: center
 
-???? 
-------------------------- 
+Digital Platforms in the World
+------------------------------
+
+- Which one we have right now?
+- Which one we have in our strategy plan?
+- What are possible to think of? 
 
 .. image:: images/DE-2019-8-D-platforms.png   
    :height: 20px
@@ -226,35 +216,13 @@ Create value from Digital
    :align: center
    
 
-???? 
-------------------------- 
+Structure change and Digitalization
+-----------------------------------   
 
 .. image:: images/DE-2019-9-industry-to-D.png   
    :height: 20px
    :width: 80px
    :align: center
-
-
-???? 
------------------------------ 
-
-.. figure:: images/DE-10-policy.png
-   :height: 400 px
-   :width: 800 px
-   :scale: 50 %
-   :align: center
-   :alt: Applications
-
-
-what to name???? 
------------------------------ 
-
-.. figure:: images/DE-11-Policy_areas.png
-   :height: 400 px
-   :width: 800 px
-   :scale: 50 %
-   :align: center
-   :alt: Applications
 
 
 Internal Digitalization 
@@ -422,6 +390,30 @@ API as products
 	- dataset providing
 	- What are options?
 	- Provide some in API market and expect ?
+
+
+
+Policies to make Digital economy 
+-------------------------------- 
+
+.. figure:: images/DE-10-policy.png
+   :height: 400 px
+   :width: 800 px
+   :scale: 50 %
+   :align: center
+   :alt: Applications
+
+
+Policy areas which need attention 
+--------------------------------- 
+
+.. figure:: images/DE-11-Policy_areas.png
+   :height: 400 px
+   :width: 800 px
+   :scale: 50 %
+   :align: center
+   :alt: Applications
+
 
 
 
