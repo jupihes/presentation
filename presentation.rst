@@ -337,10 +337,26 @@ How to move?
 
 
 
-Irancell Redesign of strategies 
-----------------------------------
+Irancell: Review and Rethink on strategies 
+------------------------------------------
 
-Low hanging furits is my view.
+1- Conider "Low hanging furits" or attractive for our subcriber base 
+ - Gaming 
+ - Entertainments
+    - Music
+    - Video
+ - Redisgn and embed to MyIrancell app
+ - Cloud Privder
+ - Big data and BI 
+
+ 
+
+2- Study on status and see competitor position and strategy if possible
+
+ - Gap, Rubika status
+ - Look for funding *Start ups*
+ 
+3- Decide acoordingly to build and agreed strategy
 
 .. image:: images/ADL-W1-1-us.png
 	:height: 20px
