@@ -246,7 +246,7 @@ Create value from Digital
    :alt: Applications
 
 
-???? 
+what to name???? 
 ----------------------------- 
 
 .. figure:: images/DE-11-Policy_areas.png
@@ -326,40 +326,58 @@ Redefining the operating model
 .. image:: images/ADL-2 -challenges.png
 
 
+
+Iran
 ----
 
-Making challenges like Kaggle and share masked dataset 
-------------------------------------------------------
-	- others to partially solve our need
+What I see as documented strategy is **Digital Iran- National Roadmap Executive Summary 2020-2025** project requested by ICT ministry and  done by *Mehdi ShamiZanjani* and his team in Tehran University. 
 
-----
 
-API based products /interactions with others 
---------------------------------------------
-API as products
----------------
-	- internal API (API based dataset providing)
-	- Partener API
-	- External / Open API
-	- dataset providing
-	- What are options?
-	- Provide some in API market and expect ?
+.. image:: images/DI_overview_1.png
+	:height: 20px
+	:width: 80px
+	:align: center
+        :scale: 50 %
+        :alt: alternate text
 
-Sustainable Development Goals 
------------------------------
+Irancell 
+--------
 
-Out of 17 sustainable development goals (SDGs) to transform world, Digital could support at least followings
+Digital Department
 
-- GOAL 1: No Poverty
-- GOAL 3: Good Health and Well-being
-- GOAL 4: Quality Education
-- GOAL 5: Gender Equality
-- GOAL 8: Decent Work and Economic Growth
-- GOAL 9: Industry, Innovation and Infrastructure
-- GOAL 10: Reduced Inequality
-- GOAL 11: Sustainable Cities and Communities
-- GOAL 12: Responsible Consumption and Production
-- GOAL 13: Climate Action
+1. Planning
+2. Operation
+
+
+- Strategy
+- Policy
+- Project 
+
+   - implementation plan
+
+
+How to move? 
+------------
+
++------------+------------+-----------+
+|Existing    |Ongoing     | Future    |
+|App/products| projects   |  plan     |
++============+============+===========+
+| review and | review     | Thank and |
+| decide     | strategy   | plan      |
++------------+------------+-----------+
+
+
+
+Irancell Redesign of strategies 
+----------------------------------
+
+Low hanging furits is my view.
+
+.. image:: images/ADL-W1-1-us.png
+	:height: 20px
+	:width: 80px
+	:align: center
 
 
 Collaboration possibility to make value
@@ -384,6 +402,26 @@ Collaboration possibility to make value
 #. Industry, Mine and Trade
 #. Interior
 #. Roads and Urban Development
+
+
+----
+
+Making challenges like Kaggle and share masked dataset 
+------------------------------------------------------
+	- others to partially solve our need
+
+----
+
+API based products /interactions with others 
+--------------------------------------------
+API as products
+---------------
+	- internal API (API based dataset providing)
+	- Partener API
+	- External / Open API
+	- dataset providing
+	- What are options?
+	- Provide some in API market and expect ?
 
 
 
@@ -436,55 +474,6 @@ More Details at ADL_mob_det_1_.
 
 .. <img src="Presentation pics\City Mobility -Tehran among others.png" alt="drawing" width="200"/>
 
-Iran
-----
-
-What I see as documented strategy is **Digital Iran- National Roadmap Executive Summary 2020-2025** project requested by ICT ministry and  done by *Mehdi ShamiZanjani* and his team in Tehran University. 
-
-
-.. image:: images/DI_overview_1.png
-	:height: 20px
-	:width: 80px
-	:align: center
-        :scale: 50 %
-        :alt: alternate text
-
-Irancell 
---------
-
-Digital Department
-
-1. Planning
-2. Operation
-
-
-- Strategy
-- Policy
-- Project 
-
-   - implementation plan
-
-
-+------------+------------+-----------+
-| Existing   | Ongoing    | Future    |
-|App/products| projects   |  plan     |
-+============+============+===========+
-| review and | review     | Thank and |
-| decide     | strategy   | plan      |
-+------------+------------+-----------+
-
-
-
-Irancell Redesign of strategies 
-----------------------------------
-
-Low hanging furits is my view.
-
-.. image:: images/ADL-W1-1-us.png
-	:height: 20px
-	:width: 80px
-	:align: center
-
 Review of status in Digitalization - details 
 --------------------------------------------
 
@@ -511,6 +500,22 @@ for leveraging digitalization in operations. The chosen governance should includ
 sponsorship, dedicated capabilities, expertise, and accountability to process owners
 to ensure an organization-wide and sustainable transformation.
 
+
+Sustainable Development Goals 
+-----------------------------
+
+Out of 17 sustainable development goals (SDGs) to transform world, Digital could support at least followings
+
+- GOAL 1: No Poverty
+- GOAL 3: Good Health and Well-being
+- GOAL 4: Quality Education
+- GOAL 5: Gender Equality
+- GOAL 8: Decent Work and Economic Growth
+- GOAL 9: Industry, Innovation and Infrastructure
+- GOAL 10: Reduced Inequality
+- GOAL 11: Sustainable Cities and Communities
+- GOAL 12: Responsible Consumption and Production
+- GOAL 13: Climate Action
 
 ..reference place
 .. [Ref1] https://www.adlittle.com/en/career/case-studies/telco-diversification-strategy-reverse-ebitda-decline  
