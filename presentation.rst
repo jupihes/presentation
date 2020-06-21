@@ -429,117 +429,47 @@ More Details at ADL_mob_det_1_.
 
 .. <img src="Presentation pics\City Mobility -Tehran among others.png" alt="drawing" width="200"/>
 
-
-
-
----
-
-.. math
-.. math::
-
-  W^{3\beta}_{\delta_1 \rho_1 \sigma_2} \approx U^{3\beta}_{\delta_1 \rho_1}
-
-
-.. sample of source code embedding
-
-.. sourcecode:: ipython
-
-    In [69]: lines = plot([1,2,3])
-
-    In [70]: setp(lines)
-      alpha: float
-      animated: [True | False]
-      antialiased or aa: [True | False]
-      ...snip
-
-
-
+Iran
 ----
 
-
-Here is a quick and dirty cheat sheet for some common stuff you want
-to do in sphinx and ReST.  You can see the literal source for this
-file at :ref:`cheatsheet-literal`.
-   
-
-.. _formatting-text:
-
-Formatting text
-===============
-
-You use inline markup to make text *italics*, **bold**, or ``monotype``.
-
-You can represent code blocks fairly easily::
-
-   import numpy as np
-   x = np.random.rand(12)
-
-Or literally include code:
-
-.. literalinclude:: pyplots/ellipses.py
-
-.. _making-a-list:
-
-Making a list
-=============
-
-It is easy to make lists in rest
-
-Bullet points
--------------
-
-This is a subsection making bullet points
-
-* point A
-
-* point B
-
-* point C
+What I see as documented strategy is **Digital Iran- National Roadmap Executive Summary 2020-2025** project requested by ICT ministry and  done by *Mehdi ShamiZanjani* and his team in Tehran University. 
 
 
-Enumerated points
-------------------
+.. image:: images/DI_overview_1.png
+	:height: 20px
+	:width: 80px
+	:align: center
+        :scale: 50 %
+        :alt: alternate text
 
-This is a subsection making numbered points
+Irancell 
+--------
 
-#. point A
+Digital Department
 
-#. point B
+1. Planning
+2. Operation
 
-#. point C
+
+- Strategy
+- Policy
+- Project 
+   - implementation plan
 
 
-.. _making-a-table:
++------------+------------+-----------+
+| Existing App/products   | Ongoing projects   | Future plan |
++============+============+===========+
+| body row 1 | column 2   | column 3  |
++------------+------------+-----------+
+| body row 2 | Cells may span columns.|
++------------+------------+-----------+
+| body row 3 | Cells may  | - Cells   |
++------------+ span rows. | - contain |
+| body row 4 |            | - blocks. |
++------------+------------+-----------+
 
-Making a table
-==============
-
-This shows you how to make a table -- if you only want to make a list see :ref:`making-a-list`.
-
-==================   ============
-Name                 Age
-==================   ============
-John D Hunter        40 
-Cast of Thousands    41
-And Still More       42
-==================   ============
-
-.. _making-links:
-
-Making links
-============
-
-It is easy to make a link to `yahoo <http://yahoo.com>`_ or to some
-section inside this document (see :ref:`making-a-table`) or another
-document.
-
-You can also reference classes, modules, functions, etc that are
-documented using the sphinx `autodoc
-<http://sphinx.pocoo.org/ext/autodoc.html>`_ facilites.  For example,
-see the module :mod:`matplotlib.backend_bases` documentation, or the
-class :class:`~matplotlib.backend_bases.LocationEvent`, or the method
-:meth:`~matplotlib.backend_bases.FigureCanvasBase.mpl_connect`.
-
+App/products
 
 Review of status in Digitalization - details 
 --------------------------------------------
